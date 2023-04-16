@@ -1,0 +1,41 @@
+p#p1
+ {
+ color:turquoise;
+ font-size:20pt;
+ }
+ p#p2
+ {
+ color:turquoise;
+ font-size:18pt;
+ }
+p#p1:first-letter
+{
+color: silver;
+font-size: 115pt;
+}
+p#p2:first-letter
+{
+  color: yellow;  
+  font-size: 115pt;
+}
+h1#h1{
+color: purple;
+
+}
+h1#h1:first-letter{
+    color: silver;
+}
+
+p#p3{
+    color: blue;
+    font-size:20pt;
+    }
+
+p#p3:first-letter{
+    font-size: 115pt;
+}
+p#p3:first-line{
+    color: red;
+    }
+    /*Oskar Tubaja*/
+    
